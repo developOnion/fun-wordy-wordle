@@ -1,4 +1,4 @@
-# Project Name
+# Wordle Game
 [Project Website](https://smey-fun-wordy-wordle.netlify.app/)
 
 ## Project Description
